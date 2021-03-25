@@ -1,0 +1,12 @@
+var x="bombay";
+var y=3;
+var z=x*y;
+var a=x/y;
+var b=x%y;
+var d=x-y;
+var e=x+y;
+console.log(z);
+console.log(a);
+console.log(b);
+console.log(d);
+console.log(e);
