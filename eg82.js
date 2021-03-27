@@ -1,0 +1,10 @@
+var queue=new Array();
+queue.push(100);
+queue.push(30);
+queue.push(50);
+queue.push(10);
+queue.push(20);
+console.log(queue.length);
+var a=queue.shift();
+console.log(a);
+console.log(queue.length);

@@ -1,0 +1,10 @@
+var x=new Array();
+x.push(10);
+x.push(100);
+x.push(1000);
+x.push(50);
+x.push(60);
+console.log(x.length);
+var a=x.pop();
+console.log(x.length);
+console.log(a);
